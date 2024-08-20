@@ -1,0 +1,60 @@
+Cuestionario de Programación 
+##1. ¿Qué es la encapsulación en la Programación Orientada a Objetos?
+~ A) La capacidad de una clase de heredar métodos de otra clase
+= B) El proceso de restringir el acceso a ciertos componentes de un objeto. 
+~ C) La capacidad de una función de tomar diferentes formas
+~ D) La capacidad de crear múltiples clases en un solo archivo
+
+##2. ¿Cuál es el propósito de un constructor en una clase?
+~ A) Crear copias de objetos
+= B) Inicializar un nuevo objeto de la clase. 
+~ C) Destruir un objeto cuando ya no es necesario
+~ D) Guardar el estado de un objeto en un archivo
+
+##3. ¿Qué es la herencia en la POO?
+= A) El mecanismo por el cual una clase puede derivarse de otra clase, adquiriendo sus propiedades y métodos. 
+~ B) La creación de múltiples métodos con el mismo nombre en la misma clase
+~ C) La conversión de un tipo de dato en otro
+~ D) La creación de interfaces para la comunicación entre clases
+
+##4. ¿Cuál de los siguientes NO es un principio de la POO?
+~ A) Abstracción
+~ B) Encapsulación
+= C) Sobrecarga.
+~ D) Polimorfismo
+
+##5. ¿Qué es el polimorfismo en la POO?
+~ A) La capacidad de una función para devolver múltiples valores
+~ B) La capacidad de un objeto de contener múltiples valores
+~ C) La creación de objetos a partir de una clase
+= D) La capacidad de un método de tomar diferentes formas, dependiendo de la clase que lo invoque. 
+
+##6. ¿Qué significa la palabra clave super en Java?
+~ A) Es utilizada para acceder a los métodos de la clase actual
+~ B) Es utilizada para definir una clase padre
+= C) Es utilizada para llamar al constructor de la clase padre. 
+~ D) Es utilizada para definir un método que puede ser sobrescrito
+
+##7. ¿Cuál es la principal diferencia entre una clase abstracta y una interfaz en Java?
+~ A) Una clase abstracta no puede contener métodos
+= B) Una clase abstracta puede tener métodos con implementación, mientras que una interfaz no.
+~ C) Una interfaz puede tener constructores, mientras que una clase abstracta no
+~ D) Una clase abstracta no puede tener métodos abstractos
+
+##8. ¿Qué es el concepto de "sobrecarga de métodos"?
+= A) La definición de múltiples métodos con el mismo nombre, pero diferentes parámetros en una clase. 
+~ B) La redefinición de un método heredado en una subclase
+~ C) La capacidad de un método de tomar múltiples tipos de datos
+~ D) La creación de métodos que ejecutan múltiples operaciones al mismo tiempo
+
+##9. ¿Qué significa la palabra clave this en Java?
+= A) Se refiere a la instancia actual de la clase. 
+~ B) Se refiere a la clase padre del objeto actual
+~ C) Se refiere al nombre de la clase actual
+~ D) Se refiere al siguiente objeto en la jerarquía de herencia
+
+##10. ¿Qué es la abstracción en la POO?
+~ A) La ocultación de datos mediante la encapsulación
+= B) El proceso de ocultar los detalles de implementación y mostrar solo la funcionalidad al usuario. 
+~ C) La capacidad de un objeto de comportarse de diferentes maneras
+~ D) La creación de múltiples objetos de una misma clase
